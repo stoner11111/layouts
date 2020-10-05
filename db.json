@@ -60,3 +60,22 @@
   "colores-disponibles":"['original','sincloro']"
 },
 {
+	
+  "modelo": "levis 513",
+  "color": "triplestone",
+  "imagen":"https://fotos.subefotos.com/68573956e24b6927b0100a84ff9c0f8fo.jpg",
+  "precio-base": 120,
+  "descuento":12,
+  "tipo-iva":21,
+  "tallas-disponibles":"[14,46,52]",
+  "colores-disponibles":"['triplestone']"
+}
+
+  
+  
+  
+  ]
+
+
+
+}
