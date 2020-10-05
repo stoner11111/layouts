@@ -1,15 +1,62 @@
   
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  "posts":[
+      
+      {
+	
+  "modelo": "levis 501",
+  "color": "ocre",
+  "imagen":"https://fotos.subefotos.com/c341a894ae53a2f195605e729bab5b92o.jpg",
+  "precio-base": 60,
+  "descuento":2,
+  "tipo-iva":21,
+  "tallas-disponibles":"[21,24,35]",
+  "colores-disponibles":"['ocre','original','tono2']"
+},
+
+{
+	
+  "modelo": "levis 501",
+  "color": "original",
+  "imagen":"https://fotos.subefotos.com/f058a33c0b4423e03782fe9caefa72d4o.jpg",
+  "precio-base": 80,
+  "descuento":5,
+  "tipo-iva":21,
+  "tallas-disponibles":"[21,24,35,46]",
+  "colores-disponibles":"['ocre','original','tono2']"
+},
+
+{
+	
+  "modelo": "levis 501",
+  "color": "tono2",
+  "imagen":"https://fotos.subefotos.com/00ed336fd2413f1d80e043803ecd3bc9o.jpg",
+  "precio-base": 90,
+  "descuento":4,
+  "tipo-iva":21,
+  "tallas-disponibles":"[19,21,24,35,46,52]",
+  "colores-disponibles":"['ocre','original','tono2']"
+},
+  {
+	
+  "modelo": "levis 505",
+  "color": "original",
+  "imagen":"https://fotos.subefotos.com/0b4611c91dedd66ea5f639a2eec65471o.jpg",
+  "precio-base": 100,
+  "descuento":10,
+  "tipo-iva":21,
+  "tallas-disponibles":"[35,46,52]",
+  "colores-disponibles":"['original','sincloro']"
+},
+{
+	
+  "modelo": "levis 505",
+  "color": "sincloro",
+  "imagen":"https://fotos.subefotos.com/73a18652da8eb85bd083ef92972b50c7o.jpg",
+  "precio-base": 110,
+  "descuento":3,
+  "tipo-iva":21,
+  "tallas-disponibles":"[14,23,35,46,52]",
+  "colores-disponibles":"['original','sincloro']"
+},
+{
